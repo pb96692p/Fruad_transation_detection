@@ -1,9 +1,8 @@
-"""# Conclusion:
+# Conclusion:
 - data has high number of outliers as a result positive  Skewed
 - target feature is highly enbalenced need to be handeld properly 
 - there is multicolenearty in data 
 - the amount of data is big we need to handle data so the training and prediction time can be saved 
-"""
 
 
 # my aopproch 
