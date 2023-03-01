@@ -1,8 +1,9 @@
-# Conclusion:
+"""# Conclusion:
 - data has high number of outliers as a result positive  Skewed
 - target feature is highly enbalenced need to be handeld properly 
 - there is multicolenearty in data 
 - the amount of data is big we need to handle data so the training and prediction time can be saved 
+"""
 
 
 # my aopproch 
@@ -12,3 +13,7 @@
 - to privent over fitting i used simple models also used k fold cross 
 - i also did hyper perameter tuning with GridSearchCV
 - and finally used sklearne pipeline to do data transformation during prediction
+
+
+# data set 
+- data set is available at kaggle under the name "PS_20174392719_1491204439457_log.csv"
